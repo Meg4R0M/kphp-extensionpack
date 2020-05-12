@@ -4,6 +4,14 @@
     "description": "A set of useful extensions for PHP development.",
     "version": "0.0.1",
     "publisher": "Meg4R0M",
+    "bugs": {
+        "url": "https://github.com/psykoterro/kphp-extensionpack/issues",
+        "email": "psykoterro@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/psykoterro/kphp-extensionpack.git"
+    },
     "icon": "images/kphp.png",
     "galleryBanner": {
         "color": "#e94e1b",
